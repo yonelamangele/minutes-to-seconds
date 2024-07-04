@@ -1,0 +1,16 @@
+* {
+    background-color: silver;
+}
+
+input {
+    color: whitesmoke;
+}
+
+button {
+    background-color: tomato;
+    color: whitesmoke;
+}
+
+span {
+    color: tomato;
+}
